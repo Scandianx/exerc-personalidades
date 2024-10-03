@@ -86,8 +86,7 @@ public class ListaDePersonalidades implements ColecaoDePersonalidades{
 
     @Override
     public void ordenarPersonalidades(Ordenador ordenador) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'ordenarPersonalidades'");
+        ordenador.ordenar(this);
     }
 
     @Override

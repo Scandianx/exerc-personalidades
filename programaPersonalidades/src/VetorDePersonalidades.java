@@ -60,7 +60,7 @@ public class VetorDePersonalidades implements ColecaoDePersonalidades{
 
     @Override
     public void ordenarPersonalidades(Ordenador ordenador) {
-        
+        ordenador.ordenar(this);
     }
     
 }

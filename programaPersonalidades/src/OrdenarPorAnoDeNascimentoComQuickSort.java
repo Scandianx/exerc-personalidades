@@ -35,7 +35,7 @@ public class OrdenarPorAnoDeNascimentoComQuickSort implements Ordenador{
             return numeroInt;
         } catch (Exception e) {
             System.out.println("Nao fez parse no elemtno: " + ano);
-            return 1980;
+            return 2000;
         }
     }
 }

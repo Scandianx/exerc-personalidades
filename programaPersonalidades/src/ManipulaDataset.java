@@ -7,7 +7,7 @@ import java.io.FileWriter;
 public class ManipulaDataset {
 
     public static ColecaoDePersonalidades lerDoArquivoCsv(ColecaoDePersonalidades c) {
-        String filePath = "C:\\Users\\Filipe\\Desktop\\Git repositories\\exercs\\programaPersonalidades\\programaPersonalidades[\\AgeDataset-V1.csv";
+        String filePath = "C:\\Users\\Filipe\\Desktop\\Git repositories\\exercs\\lista-encadeada-exerc\\listaFiltrada.csv";
 
         try {
             BufferedReader br = new BufferedReader(new FileReader(filePath));
