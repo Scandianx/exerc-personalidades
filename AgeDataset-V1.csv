@@ -1,0 +1,126 @@
+Id,Name,Short description,Gender,Country,Occupation,Birth year,Death year,Manner of death,Age of death
+Q23,George Washington,1st president of the United States (1732–1799),Male,United States of America; Kingdom of Great Britain,Politician,1732,1799,natural causes,67
+Q42,Douglas Adams,English writer and humorist,Male,United Kingdom,Artist,1952,2001,natural causes,49
+Q91,Abraham Lincoln,16th president of the United States (1809-1865),Male,United States of America,Politician,1809,1865,homicide,56
+Q254,Wolfgang Amadeus Mozart,Austrian composer of the Classical period,Male,Archduchy of Austria; Archbishopric of Salzburg,Artist,1756,1791,,35
+Q255,Ludwig van Beethoven,German classical and romantic composer,Male,Holy Roman Empire; Austrian Empire,Artist,1770,1827,,57
+Q260,Jean-François Champollion,French classical scholar,Male,Kingdom of France; First French Empire,Egyptologist,1790,1832,natural causes,42
+Q272,Paul Morand,French writer,Male,France,Artist,1888,1976,,88
+Q296,Claude Monet,French impressionist painter (1840-1926),Male,France,Artist,1840,1926,natural causes,86
+Q297,Diego Velázquez,Spanish painter (1599-1660),Male,Spain,Artist,1599,1660,,61
+Q301,El Greco,"Greek painter, sculptor and architect",Male,Spain; Republic of Venice,Artist,1541,1614,,73
+Q303,Elvis Presley,American singer and actor (1935–1977),Male,United States of America,Artist,1935,1977,natural causes,42
+Q307,Galileo Galilei,"Italian mathematician, physicist, philosopher and astronomer",Male,Grand Duchy of Tuscany; Duchy of Florence,Astronomer,1564,1642,,78
+Q335,Patricio Aylwin,Chilean politician and former president (1918-2016),Male,Chile,Politician,1918,2016,,98
+Q346,Louis IX of France,king of France,Male,France,Ruler,1214,1270,natural causes,56
+Q352,Adolf Hitler,"Austrian-born German politician, chancellor and Führer of Germany, leader of the Nazi Party (1889-1945)",Male,Nazi Germany; Austria-Hungary; Weimar Republic; Republic of German-Austria; First Republic of Austria,Statesperson,1889,1945,suicide,56
+Q353,Blanche of Castile,"Spanish princess and saint, queen consort of France",Female,Kingdom of Castile,Regent,1188,1252,,64
+Q354,Piet Kraak,Dutch footballer (1921-1984),Male,Kingdom of the Netherlands,Athlete,1921,1984,,63
+Q368,Augusto Pinochet,"General, politician of Chile (1915-2006)",Male,Chile,Politician,1915,2006,natural causes,91
+Q377,Yanka Kupala,Belarusian writer (1882-1942),Male,Byelorussian Soviet Socialist Republic; Russian Empire; Belarusian People's Republic,Artist,1882,1942,,60
+Q379,František Plánička,Czech association football player (1904-1996),Male,Czech Republic; Czechoslovakia,Athlete,1904,1996,,92
+Q407,Linda Lovelace,"American pornographic actress, later anti-porn activist",Female,United States of America,Artist,1949,2002,accident,53
+Q409,Bob Marley,"Jamaican singer, songwriter and musician",Male,Jamaica,Artist,1945,1981,natural causes,36
+Q410,Carl Sagan,"American astrophysicist, cosmologist, author and science educator",Male,United States of America,Researcher,1934,1996,natural causes,62
+Q440,Salvador Allende,28th president of Chile (1908–1973),Male,Chile,Politician,1908,1973,suicide,65
+Q448,Denis Diderot,French Enlightenment philosopher and encyclopædist,Male,France; Kingdom of France,Researcher,1713,1784,,71
+Q449,Georges Brassens,French singer-songwriter and poet,Male,France,Artist,1921,1981,natural causes,60
+Q464,Philipp Ludwig von Seidel,German mathematician,Male,German Empire; German Confederation,Researcher,1821,1896,,75
+Q475,Eduardo Frei Montalva,President of Chile (1911-1982),Male,Chile,Politician,1911,1982,homicide,71
+Q493,Arthur Rimbaud,"19th century French poet who influenced modern literature and arts, and prefigured surrealism",Male,France; French Third Republic; Second French Empire,Artist,1854,1891,natural causes,37
+Q498,"Ulrich Frédéric Woldemar, Comte de Lowendal",German-born French soldier and statesmen (1700-1755),Male,Denmark; Russian Empire; Kingdom of France; Electorate of Saxony,Politician,1700,1755,,55
+Q501,Charles Baudelaire,"French poet, essayist and art critic (1821-1867)",Male,France,Artist,1821,1867,natural causes,46
+Q502,Stendhal,19th century French writer,Male,France,Artist,1783,1842,natural causes,59
+Q504,Émile Zola,French writer,Male,France,Artist,1840,1902,accident,62
+Q512,Vladimir Vysotsky,"Soviet singer, songwriter, poet and actor",Male,Soviet Union,Artist,1938,1980,natural causes,42
+Q517,Napoleon,French general and emperor (1769-1821),Male,France,Politician,1769,1821,natural causes,52
+Q529,Louis Pasteur,French chemist and microbiologist,Male,France,Researcher,1822,1895,natural causes,73
+Q535,Victor Hugo,"French poet, novelist, and dramatist (1802-1885)",Male,France,Artist,1802,1885,,83
+Q539,Giuseppe Garibaldi,"Italian general, patriot and republican (1807-1882)",Male,French Third Republic; First French Empire; Riograndense Republic; Kingdom of Sardinia; Kingdom of Italy,Artist,1807,1882,natural causes,75
+Q559,Claude Bourgelat,French veterinary surgeon,Male,Kingdom of France,Artist,1712,1779,,67
+Q562,Pierre Poivre,French horticulturalist (1719-1786),Male,Kingdom of France,Researcher,1719,1786,,67
+Q576,Jorge Alessandri,Chilean politician and President (1896-1986),Male,Chile,Politician,1896,1986,,90
+Q579,Carlos Ibáñez del Campo,Chilean army officer and political figure (1877-1960),Male,Chile,Politician,1877,1960,,83
+Q590,Luís de Camões,Portuguese poet,Male,,Artist,1524,1580,,56
+Q619,Nicolaus Copernicus,"Renaissance-era mathematician, astronomer, and clergyman who formulated the heliocentric model of the Universe",Male,Kingdom of Poland,Researcher,1473,1543,natural causes,70
+Q632,Jean Moulin,French resistance fighter and civil servant,Male,France,Official; french resistance fighter,1899,1943,homicide,44
+Q635,Cleopatra,last active pharaoh of Ptolemaic Egypt,Female,Ancient Egypt,Sovereign,-69,-30,suicide,39
+Q651,Friedrich Theodor Vischer,"German philosopher, writer and politician (1807-1887)",Male,Germany,Researcher,1807,1887,,80
+Q675,André-Marie Ampère,French physicist and mathematician,Male,France,Researcher,1775,1836,,61
+Q680,Alessandro Volta,"Italian physicist, chemist, and pioneer of electricity and power",Male,Duchy of Milan; Kingdom of Lombardy–Venetia; Cisalpine Republic; Kingdom of Italy,Researcher,1745,1827,,82
+Q687,Molière,French playwright and actor,Male,Kingdom of France,Artist,1622,1673,natural causes,51
+Q692,William Shakespeare,English playwright and poet,Male,Kingdom of England,Playwright,1564,1616,,52
+Q720,Genghis Khan,founder and first khan of the Mongol Empire,Male,Mongol Empire,Military personnel,1162,1227,,65
+Q742,Jean Racine,French dramatist,Male,Kingdom of France,Researcher,1639,1699,natural causes,60
+Q747,Pierre Corneille,French tragedian,Male,Kingdom of France,Artist,1606,1684,,78
+Q755,Paul Verlaine,French poet,Male,France,Artist,1844,1896,natural causes,52
+Q762,Leonardo da Vinci,Italian Renaissance polymath (1452-1519),Male,Republic of Florence,Researcher,1452,1519,natural causes,67
+Q765,Dario Fo,"Italian actor, playwright, comedian, singer-songwriter, theater director, painter, and political activist (1926-2016)",Male,Italy,Artist,1926,2016,,90
+Q767,Stéphane Mallarmé,French Symbolist poet,Male,France,Artist,1842,1898,,56
+Q815,Gabriel Gonzáles Videla,Chilean politician (1898-1980),Male,Chile,Politician,1898,1980,,82
+Q820,Juan Antonio Rios,Chilean politician and President (1888-1946),Male,Chile,Politician,1888,1946,natural causes,58
+Q835,Mikhail Bulgakov,Russian author,Male,Soviet Union; Russian Empire,Artist,1891,1940,natural causes,49
+Q838,Andrei Rublev,medieval Russian artist,Male,Grand Duchy of Moscow,Artist,1360,1428,natural causes,68
+Q845,Pedro Aguirre Cerda,Chilean politician and President (1879-1941),Male,Chile,Politician,1879,1941,natural causes,62
+Q848,Arturo Alessandri,Chilean politician and President,Male,Chile,Politician,1868,1950,natural causes,82
+Q849,François Villon,French poet and criminal,Male,Kingdom of France,Artist,1431,1463,,32
+Q853,Andrei Tarkovsky,"Soviet and Russian filmmaker, writer, film editor, film theorist, and theatre and opera director",Male,Soviet Union,Artist,1932,1986,natural causes,54
+Q855,Joseph Stalin,"Soviet politician, general secretary of the Communist Party of the Soviet Union and premier of the Soviet Union (1878-1953)",Male,Soviet Union; Russian Empire; Russian Soviet Federative Socialist Republic,Politician,1879,1953,natural causes,74
+Q857,Juan Luis Sanfuentes,Chilean politician and President (1858-1930),Male,Chile,Politician,1858,1930,,72
+Q859,Plato,ancient Greek philosopher,Male,Classical Athens,Artist,-427,-347,,80
+Q862,Joseph Brodsky,Russian-American poet,Male,United States of America; Soviet Union,Artist,1940,1996,natural causes,56
+Q868,Aristotle,ancient Greek philosopher,Male,,Philosopher,-384,-322,natural causes,62
+Q882,Charlie Chaplin,British comic actor and filmmaker (1889-1977),Male,United Kingdom,Artist,1889,1977,natural causes,88
+Q885,Józef Piłsudski,"Polish politician, First Marshall and Prime Minister (1867-1935)",Male,Poland; Russian Empire; Second Polish Republic,Politician,1867,1935,natural causes,68
+Q892,J. R. R. Tolkien,British philologist and author of classic high fantasy works,Male,United Kingdom,Researcher,1892,1973,,81
+Q905,Franz Kafka,Bohemian novelist and short story writer,Male,Austria-Hungary; Czechoslovakia,Artist,1883,1924,natural causes,41
+Q909,Jorge Luis Borges,"Argentine short story writer, essayist, poet and translator (1899-1986)",Male,Argentina,Researcher,1899,1986,natural causes,87
+Q913,Socrates,ancient Greek philosopher,Male,Classical Athens,Philosopher,-470,-399,capital punishment,71
+Q920,J. Bernlef,Dutch writer and translator,Male,Kingdom of the Netherlands,Artist,1937,2012,,75
+Q926,Roald Amundsen,Norwegian explorer; first person to reach the South Pole,Male,Norway,Researcher,1872,1928,accident,56
+Q927,Harry Mulisch,Dutch writer,Male,Kingdom of the Netherlands,Artist,1927,2010,natural causes,83
+Q930,Konstantin Melnikov,Russian architect and painter (1890-1974),Male,Soviet Union; Russian Empire,Artist,1890,1974,,84
+Q935,Isaac Newton,British physicist and mathematician,Male,Kingdom of Great Britain; Kingdom of England,Researcher,1642,1727,,85
+Q937,Albert Einstein,German-born theoretical physicist; developer of the theory of relativity (1879–1955),Male,United States of America; Switzerland; Austria-Hungary; Weimar Republic; German Empire,Researcher,1879,1955,natural causes,76
+Q939,Pedro I of Brazil,first Emperor of Brazil (1798-1834),Male,Kingdom of Portugal; Empire of Brazil,Artist,1798,1834,natural causes,36
+Q949,John Bardeen,American physicist and engineer,Male,United States of America,Researcher,1908,1991,natural causes,83
+Q984,Miles Franklin,Australian writer and feminist,Female,Austria; Australia,Artist,1879,1954,,75
+Q989,John Paul II,264th pope of the Catholic Church,Male,Poland,Researcher,1920,2005,natural causes,85
+Q991,Fyodor Dostoyevsky,Russian author,Male,Russian Empire,Artist,1821,1881,,60
+Q997,Andrei Sakharov,Soviet nuclear physicist and human rights activist,Male,Soviet Union; Russian Soviet Federative Socialist Republic,Researcher,1921,1989,natural causes,68
+Q1001,Mahatma Gandhi,pre-eminent leader of Indian nationalism during the British Raj (1869-1948),Male,British Raj; Dominion of India,Artist,1869,1948,homicide,79
+Q1031,France Prešeren,"Slovene national poet, a Carniolan Romantic poet of Slovene descent",Male,Austrian Empire; Illyrian Provinces,Artist,1800,1849,natural causes,49
+Q1035,Charles Darwin,"British naturalist, author of ""On the origin of species, by means of natural selection"" (1809-1882)",Male,United Kingdom of Great Britain and Ireland,Researcher,1809,1882,,73
+Q1043,Carl Linnaeus,"Swedish botanist, physician, and zoologist (1707-1778)",Male,Sweden,Researcher,1707,1778,,71
+Q1051,Ivan Regen,Slovenian biologist,Male,Austria-Hungary,Researcher,1868,1947,,79
+Q1056,Italo Balbo,Italian Marshal of the Air Force and minister (1896-1940),Male,Kingdom of Italy,Politician,1896,1940,accident,44
+Q1064,Alessandro Manzoni,Italian poet and novelist (1785-1873),Male,Kingdom of Sardinia; Kingdom of Italy,Artist,1785,1873,natural causes,88
+Q1067,Dante Alighieri,Italian poet (1265–1321),Male,Republic of Florence,Artist,1265,1321,,56
+Q1145,Jean-Philippe Rameau,French Baroque composer and music theorist,Male,Kingdom of France,Artist,1683,1764,,81
+Q1149,Indira Gandhi,Indian Prime Minister and politician (1917-1984),Female,India; British Raj,Politician,1917,1984,homicide,67
+Q1151,Hector Berlioz,French Romantic composer,Male,France,Artist,1803,1869,,66
+Q1178,Maurice Ravel,French composer,Male,France,Artist,1875,1937,,62
+Q1192,Jean-Baptiste Lully,Italian-born French composer,Male,Kingdom of France; Grand Duchy of Tuscany,Artist,1632,1687,natural causes,55
+Q1203,John Lennon,"English singer and songwriter, founding member of The Beatles (1940-1980)",Male,United Kingdom,Artist,1940,1980,homicide,40
+Q1217,Hubert Salentin,German painter (1822-1910),Male,German Empire,Artist,1822,1910,,88
+Q1224,Carlo Azeglio Ciampi,10th President of Italy,Male,Italy; Kingdom of Italy,Politician,1920,2016,natural causes,96
+Q1228,Oscar Luigi Scalfaro,9th President of Italy (1918-2012),Male,Italy; Kingdom of Italy,Politician,1918,2012,,94
+Q1230,Francesco Cossiga,8th President of Italy (1928-2010),Male,Italy; Kingdom of Italy,Politician,1928,2010,,82
+Q1233,Sandro Pertini,7th President of Italy (1896-1990),Male,Italy; Kingdom of Italy,Politician,1896,1990,,94
+Q1235,Giovanni Leone,6th President of Italy (1908-2001),Male,Italy; Kingdom of Italy,Politician,1908,2001,,93
+Q1238,Giuseppe Saragat,5th President of Italy (1898-1988),Male,Italy; Kingdom of Italy,Politician,1898,1988,,90
+Q1240,Antonio Segni,4th President of Italy (1891-1972),Male,Italy; Kingdom of Italy,Politician,1891,1972,,81
+Q1241,Giovanni Gronchi,3rd President of Italy (1887-1978),Male,Italy; Kingdom of Italy,Politician,1887,1978,,91
+Q1242,Luigi Einaudi,2nd President of Italy (1874-1961),Male,Italy; Kingdom of Italy,Researcher,1874,1961,,87
+Q1245,Enrico de Nicola,1st President of Italy (1877-1959),Male,Italy; Kingdom of Italy,Politician,1877,1959,,82
+Q1254,Kofi Annan,7th Secretary-General of the United Nations (1938-2018),Male,Ghana,Politician,1938,2018,natural causes,80
+Q1257,Boutros Boutros-Ghali,6th Secretary-General of the United Nations (1922-2016),Male,Egypt,Artist,1922,2016,accident,94
+Q1260,Kurt Waldheim,"4th Secretary-General of the United Nations, President of Austria (1918-2007)",Male,Austria; Nazi Germany; Federal State of Austria; Republic of German-Austria; First Republic of Austria,Politician,1918,2007,natural causes,89
+Q1267,Dag Hammarskjöld,"Swedish diplomat, economist, and author (1905-1961)",Male,Sweden,Artist,1905,1961,accident,56
+Q1268,Frédéric Chopin,Polish composer and pianist,Male,Poland,Artist,1810,1849,natural causes,39
+Q1271,Trygve Lie,1st Secretary-General of the United Nations (1896-1968),Male,Norway,Politician,1896,1968,natural causes,72
+Q1275,Gladwyn Jebb,acting Secretary-General of the United Nations (1900-1996),Male,United Kingdom; United Kingdom of Great Britain and Ireland,Politician,1900,1996,,96
+Q1276,Leonard Cohen,Canadian poet and singer-songwriter,Male,Canada,Artist,1934,2016,accident,82
+Q1290,Blaise Pascal,"French mathematician, physicist, inventor, writer, and Christian philosopher",Male,Kingdom of France,Researcher,1623,1662,natural causes,39
+Q1294,Ramón Barros Luco,Chilean politician and President (1835-1919),Male,Chile,Politician,1835,1919,,84
+Q1298,Pedro Montt,Chilean politician and President (1849-1910),Male,Chile,Politician,1849,1910,natural causes,61
