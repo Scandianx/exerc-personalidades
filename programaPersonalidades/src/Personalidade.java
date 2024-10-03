@@ -51,8 +51,8 @@ public class Personalidade {
     public void setDeathYear(String deathYear) {
         this.deathYear = deathYear;
     }
-    public Personalidade(String nome, String shortDescription, String gender, String country, String occupation,
-            String birthYear, String deathYear) {
+    public Personalidade(String deathYear, String nome, String shortDescription, String gender, String country, String occupation,
+            String birthYear) {
         this.nome = nome;
         this.shortDescription = shortDescription;
         this.gender = gender;

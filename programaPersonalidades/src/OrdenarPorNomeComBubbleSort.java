@@ -1,3 +1,5 @@
+import java.text.Normalizer;
+import java.util.regex.Pattern;
 public class OrdenarPorNomeComBubbleSort implements Ordenador {
 
     private char[] alfabeto = {
@@ -34,7 +36,7 @@ public class OrdenarPorNomeComBubbleSort implements Ordenador {
         int tamanhoNome2 = nome2.length();
         int tamanhoFinal = tamanhoNome2 > tamanhoNome1 ? tamanhoNome1 : tamanhoNome2;
         for (int i = 0; i < tamanhoFinal; i++) {
-            int pos1 = percorrerAlfabetoRetornarPos(nome1.toLowerCase().charAt(i));
+            int pos1 = percorrerAlfabetoRetornarPos(removerAcentos(nome1).toLowerCase().charAt(i));
             int pos2 = percorrerAlfabetoRetornarPos(nome2.toLowerCase().charAt(i));
             if (pos1 > pos2) {
                 return true;
@@ -54,6 +56,12 @@ public class OrdenarPorNomeComBubbleSort implements Ordenador {
             }
         }
         return 0;
+    }
+     private String removerAcentos(String texto) {
+        // Normaliza o texto para a forma NFD (Formação de Decomposição Normal)
+        String textoNormalizado = Normalizer.normalize(texto, Normalizer.Form.NFD);
+        // Remove os caracteres diacríticos (acentos)
+        return textoNormalizado.replaceAll("\\p{M}", "");
     }
 
 }

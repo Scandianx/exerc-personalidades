@@ -1,5 +1,6 @@
 public class ProgramaPersonalidades {
     public static void main(String[] args) throws Exception {
+        System.out.println("Comecando");
         ColecaoDePersonalidades colecao = new ListaDePersonalidades();
         ManipulaDataset.lerDoArquivoCsv(colecao);
         System.out.println(colecao.obterTotalDePersonalidades());
